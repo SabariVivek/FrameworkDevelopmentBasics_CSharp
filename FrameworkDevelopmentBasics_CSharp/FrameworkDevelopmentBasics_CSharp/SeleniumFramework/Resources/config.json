@@ -1,0 +1,10 @@
+{
+  "site": {
+    "baseQAUrl": "http://the-internet.herokuapp.com/login",
+    "browser": "Chrome",
+    "acceptInsecureCertificates": true
+  },
+  "exclude": [
+    "**/bin"
+  ]
+}
